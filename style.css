@@ -1,0 +1,19 @@
+/* Estilos básicos: edita los colores aquí */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background: #f4f9f4;
+  color: #333;
+  line-height: 1.6;
+}
+h1 { color: #2e7d32; }
+p { max-width: 700px; }
+nav a { margin-right: 15px; color: #2e7d32; }
+.caja {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 700px;
+}
+img { max-width: 100%; }
